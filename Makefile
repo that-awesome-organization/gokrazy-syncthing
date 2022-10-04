@@ -1,4 +1,4 @@
-VERSION := 1.21.0
+VERSION := 1.22.0
 
 all: _gokrazy/extrafiles_arm64.tar _gokrazy/extrafiles_amd64.tar
 
